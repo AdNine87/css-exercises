@@ -2,6 +2,14 @@
     font-size: 28px;
     font-family:"Helvetica", "Times New Roman", "sans-serif";
 }
+#button1 {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+#button2 {
+    background-color: yellow;
+}
 
 /* * **The first element**: a black background, white text
  color, and a bold font weight
