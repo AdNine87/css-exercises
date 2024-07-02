@@ -9,3 +9,7 @@
 .medium-font {
     font-size: 24px;
 }
+.green-bold {
+    background-color: #07be07;
+    font-weight: bold;
+}
