@@ -1,4 +1,8 @@
 .font-set {
-    background-color: pink;
+    background-color: #ffc0cb;
     font-family: "Verdana","DejaVu Sans","sans-serif";
+}
+#big-blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
 }
